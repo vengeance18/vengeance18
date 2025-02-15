@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @vengeance18
+- 👋 Hi, I’m @Ashok_jadav
+- 
 - 👀 I’m interested in Learning.
 - 🌱 I’m currently learning DSA in C language.
 - 💞️ I’m looking to collaborate on institutional projects.
